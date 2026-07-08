@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop | Aureeza</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <img src="images/logo.jpg" alt="Aureeza Logo" class="logo-img">
+                <div class="logo-text">
+                    <h1>AUREEZA</h1>
+                    <p class="tagline">Elegance Redefined</p>
+                </div>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="shop.html" class="nav-link active">Shop</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+                <li><a href="cart.html" class="nav-link cart-icon">🛒 Cart (<span id="cart-count">0</span>)</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="page-header">
+        <h1>Our Shop</h1>
+    </section>
+
+    <section class="products-section">
+        <div class="container">
+            <div class="category-tabs">
+                <button class="tab-btn active" onclick="displayProducts('all')">All</button>
+                <button class="tab-btn" onclick="displayProducts('clothing')">Clothing</button>
+                <button class="tab-btn" onclick="displayProducts('jewelry')">Jewelry</button>
+                <button class="tab-btn" onclick="displayProducts('giftboxes')">Gift Boxes</button>
+                <button class="tab-btn" onclick="displayProducts('fancy')">Fancy Items</button>
+                <button class="tab-btn" onclick="displayProducts('combos')">Combos</button>
+            </div>
+            <div class="products-grid" id="products-grid">
+                <!-- Products will be loaded by script.js -->
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2024 Aureeza - Elegance Redefined. All rights reserved.</p>
+        <p>Phone: 0773938899 | Email: aureeza@gmail.com</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+    <script>
+        // Check for category in URL
+        document.addEventListener('DOMContentLoaded', () => {
+            const params = new URLSearchParams(window.location.search);
+            const cat = params.get('cat');
+            if (cat) {
+                displayProducts(cat);
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+Aureeza Product List (40 Items)
+
+Category: Clothing
+1. Elegant Maxi Dress (Army Green) - $45.99 - /home/ubuntu/upload/search_images/4x7243b5Ct94.jpg
+2. Trendy Boat Neck Bodycon Mini Dress (Black) - $38.99 - /home/ubuntu/upload/search_images/YJdGko7hmwud.jpg
+3. Satin Bodycon Maxi Dress (Blue) - $49.99 - /home/ubuntu/upload/search_images/d5w6O8baUyWk.jpg
+4. Long Sleeve Midi Dress (Apricot) - $42.99 - /home/ubuntu/upload/search_images/pYafJN5j6alC.jpg
+5. Summer Satin Mock Neck Dress (Army Green) - $39.99 - /home/ubuntu/upload/search_images/fqvdt0HiLr20.jpg
+6. Designer White Kids Dress - $55.99 - /home/ubuntu/upload/search_images/jbLNnJ2z5wTf.jpeg
+7. V-neck Strapless Evening Gown - $89.99 - /home/ubuntu/upload/search_images/zSfbDuDHw0z6.jpg
+8. Kids Ruffle Sleeve Outfit (Blue) - $29.99 - /home/ubuntu/upload/search_images/VDayj2RjegOW.jpg
+9. Classic Party Wear Dress - $65.99 - /home/ubuntu/upload/search_images/O7lO3GwHJTuR.jpg
+10. Casual Summer Dress - $32.99 - /home/ubuntu/upload/search_images/6kAmOcoqoNWu.jpg
+
+Category: Jewelry
+11. Silver Plated Jewelry Set (42 Pcs) - $59.99 - /home/ubuntu/upload/search_images/56OSqGdMUnHS.jpg
+12. 14k Gold Plated Multi-Layer Necklace Set - $45.99 - /home/ubuntu/upload/search_images/ER4arpmysQWh.jpg
+13. 78 Pieces Gold Jewelry Set - $69.99 - /home/ubuntu/upload/search_images/IsazV4aaZk6l.jpg
+14. Layered Gold/Silver Bracelet Set - $25.99 - /home/ubuntu/upload/search_images/j4SlNIR0i6ug.jpg
+15. Bold Ring Bracelet (Hand to Wrist) - $18.99 - /home/ubuntu/upload/search_images/MkISbAIfQ6Jd.jpg
+16. Gold Jewelry Collection Set - $89.99 - /home/ubuntu/upload/search_images/S8Shu2fjoIhB.jpg
+17. Diamond Jewelry Set - $149.99 - /home/ubuntu/upload/search_images/eM7k0xznOGdh.jpg
+18. Pearl Necklace - $65.99 - /home/ubuntu/upload/search_images/kxNnwPKuXlpe.jpg
+19. Stackable Knuckle Rings Set - $15.99 - /home/ubuntu/upload/search_images/j4SlNIR0i6ug.jpg
+20. Dainty Adjustable Necklace - $22.99 - /home/ubuntu/upload/search_images/j4SlNIR0i6ug.jpg
+
+Category: Gift Boxes
+21. Teen Girl Gifts Trendy Stuff Set (10 Pcs) - $49.99 - /home/ubuntu/upload/search_images/gANqtPWeWL3n.jpg
+22. Personalized Birthday Box Gift Set - $35.99 - /home/ubuntu/upload/search_images/atWxI4FqSfWZ.jpg
+23. Matte Black Gift Boxes (10 Pack) - $24.99 - /home/ubuntu/upload/search_images/4G2yGAhFeWss.jpg
+24. DIY Custom Scrapbook Surprise Box - $29.99 - /home/ubuntu/upload/search_images/dGMmrm52TLSn.jpg
+25. Custom Glass Cup Birthday Set - $39.99 - /home/ubuntu/upload/search_images/8.jpg
+26. Premium Gift Box Set - $24.99 - /home/ubuntu/upload/search_images/rszKGhQAW7Ox.jpg
+27. Luxury Gift Packaging - $35.99 - /home/ubuntu/upload/search_images/e4mDlz1qT6RQ.jpg
+28. Makeup Gift Box for Girls - $45.99 - /home/ubuntu/upload/search_images/DzqT2rDEf1pc.jpg
+29. Birthday Surprise Box - $32.99 - /home/ubuntu/upload/search_images/gANqtPWeWL3n.jpg
+30. Custom Gift Pack - $28.99 - /home/ubuntu/upload/search_images/atWxI4FqSfWZ.jpg
+
+Category: Fancy Items
+31. Rubber Ducky Keychains (10 Pcs) - $9.99 - /home/ubuntu/upload/search_images/8Q5sue2rc8Xe.jpg
+32. Novelty Anime Cartoon Keychains (7 Styles) - $12.99 - /home/ubuntu/upload/search_images/3kRu8W7rCShC.jpg
+33. Cute Mini Cake Kawaii Keychains - $7.99 - /home/ubuntu/upload/search_images/oXeDXdGfa3Qe.jpg
+34. Decorative Bag Pendant Charms - $6.99 - /home/ubuntu/upload/search_images/oXeDXdGfa3Qe.jpg
+35. Mini Decor Items - $12.99 - /home/ubuntu/upload/search_images/rszKGhQAW7Ox.jpg
+36. Decorative Keychain Accessory - $8.99 - /home/ubuntu/upload/search_images/e4mDlz1qT6RQ.jpg
+37. Kawaii Food Miniature Charms - $10.99 - /home/ubuntu/upload/search_images/oXeDXdGfa3Qe.jpg
+38. Cute Novelty Key Rings - $5.99 - /home/ubuntu/upload/search_images/8Q5sue2rc8Xe.jpg
+39. Bag Charms Collection - $14.99 - /home/ubuntu/upload/search_images/3kRu8W7rCShC.jpg
+40. Car Keychain Accessories - $9.99 - /home/ubuntu/upload/search_images/3kRu8W7rCShC.jpg

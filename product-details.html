@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details | Aureeza</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <img src="images/logo.jpg" alt="Aureeza Logo" class="logo-img">
+                <div class="logo-text">
+                    <h1>AUREEZA</h1>
+                    <p class="tagline">Elegance Redefined</p>
+                </div>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="shop.html" class="nav-link">Shop</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+                <li><a href="cart.html" class="nav-link cart-icon">🛒 Cart (<span id="cart-count">0</span>)</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="container" style="margin-top: 50px; margin-bottom: 50px;">
+        <div id="product-detail-container" class="product-detail">
+            <!-- Loaded by script.js -->
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2024 Aureeza - Elegance Redefined. All rights reserved.</p>
+        <p>Phone: 0773938899 | Email: aureeza@gmail.com</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const params = new URLSearchParams(window.location.search);
+            const id = parseInt(params.get('id'));
+            if (id) {
+                loadProductDetailsPage(id);
+            }
+        });
+    </script>
+</body>
+</html>

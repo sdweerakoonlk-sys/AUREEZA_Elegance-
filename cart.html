@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart | Aureeza</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <img src="images/logo.jpg" alt="Aureeza Logo" class="logo-img">
+                <div class="logo-text">
+                    <h1>AUREEZA</h1>
+                    <p class="tagline">Elegance Redefined</p>
+                </div>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="shop.html" class="nav-link">Shop</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+                <li><a href="cart.html" class="nav-link active cart-icon">🛒 Cart (<span id="cart-count">0</span>)</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <section class="page-header">
+        <h1>Your Shopping Cart</h1>
+    </section>
+
+    <section class="container" style="margin-bottom: 50px;">
+        <div id="cart-page-items" class="cart-page-container">
+            <!-- Loaded by script.js -->
+        </div>
+        <div class="cart-summary-page">
+            <h3>Total: <span id="cart-page-total">$0.00</span></h3>
+            <div class="cart-actions">
+                <a href="shop.html" class="btn btn-secondary">Continue Shopping</a>
+                <a href="checkout.html" class="btn btn-primary">Proceed to Checkout</a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2024 Aureeza - Elegance Redefined. All rights reserved.</p>
+        <p>Phone: 0773938899 | Email: aureeza@gmail.com</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            displayCartPage();
+        });
+    </script>
+</body>
+</html>
